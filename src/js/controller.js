@@ -11,7 +11,7 @@ import 'regenerator-runtime/runtime';
 import { render } from 'sass';
 import 'core-js/stable';
 import { async } from 'regenerator-runtime';
-import normalizeWindowsPath from 'tar/lib/normalize-windows-path';
+//import normalizeWindowsPath from 'tar/lib/normalize-windows-path';
 
 //console.log(icons);
 
